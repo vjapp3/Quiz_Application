@@ -90,7 +90,7 @@ let questions = [
   },
     {
     numb: 9,
-    question: "How do you insert COMMENTS in Java code?",
+    question: "How do you insert Comments in Java code?",
     answer: "//This is a comment",
     options: [
       "//This is a comment",
